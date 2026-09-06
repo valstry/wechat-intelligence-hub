@@ -25,3 +25,7 @@ htmlcov/
 # Local compatibility and reader state
 .wechat-intelligence-hub/
 .wechat-deal-radar/
+
+# Local Windows launcher scripts (contain personal absolute paths)
+wechat-cli.bat
+rion-wechat-cli.cmd
